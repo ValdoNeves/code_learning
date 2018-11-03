@@ -1,4 +1,4 @@
 # code_learning
-Be petience
-
-just do it!
+[x] Be patience
+[ ] Just do it!
+[x] Ok, sir!

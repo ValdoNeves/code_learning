@@ -1,4 +1,4 @@
-# code_lerning
+# code_learning
 Be petience
 
 just do it!
